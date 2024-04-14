@@ -99,7 +99,3 @@ const fallbackLanguage : Language = {
 		"kNotLoggedIn": "Not Logged in"
 	}
 }
-
-
-	}
-}
