@@ -6,7 +6,7 @@ const fallbackLanguage : Language = {
 	"languageName": "English (US)",
 	"translatedLanguageName": "English (US)",
 	"flag": "🇺🇸",
-	"author": "Computernewb",
+	"author": "SkyHighSundae webapp",
 
 	"stringKeys": {
 		"kGeneric_CollabVM": "Guest24897VM",
