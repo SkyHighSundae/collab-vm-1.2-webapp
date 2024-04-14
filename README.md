@@ -1,8 +1,8 @@
-# CollabVM 1.2 Webapp 2.0
+# Guest24897VM 1.2 Webapp 2.0
 
 ![CollabVM Web App](/webapp.png)
 
-The CollabVM Web App is the viewer for the CollabVM Server.
+The Guest24897VM Web App is the viewer for the Guest24897VM Server.
 
 ## Building
 
