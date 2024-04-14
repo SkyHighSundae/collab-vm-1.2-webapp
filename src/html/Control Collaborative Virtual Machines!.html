@@ -1,0 +1,99 @@
+<!-- CollabVM ban screen by Elijah R
+Papers Please and all assets are (c) Lucas Pope (All for fun plz dont DMCA me)
+-->
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Control Collaborative Virtual Machines!</title>
+<meta charset="utf-8">
+<style type="text/css">
+            body {
+                background-color: #000000;
+                text-align: center;
+                -webkit-user-drag: none;
+                user-select: none;
+            }
+            #mainimage {
+                position: relative;
+                width: 100%;
+            }
+            #mainimage, #mainimage img {
+                height: 70vh;
+                display: block;
+            }
+            #mainimage img {
+                image-rendering: pixelated;
+                position: absolute;
+                left: 25%;
+                text-align: center;
+            }
+            img.hidden {
+                width: 0 !important;
+            }
+            @font-face {
+                font-family: 'PixelPlay';
+                src: url("assets/pixelplay.woff");
+            }
+            #dialogue {
+                font-family: 'PixelPlay';
+                color: #FFFFFF;
+                font-size: 18pt;
+            }
+            #autoplay {
+                position: fixed;
+                top: 0;
+                left: 0;
+                display: none;
+                height: 100vh;
+                width: 100vw;
+                margin: 0;
+                padding: 0;
+		z-index: 999;
+            }
+            #autoplay img {
+                height: 50vh;
+                width: 50vh;
+                vertical-align: middle;
+            }
+            #nextbtn {
+                border-radius: 0;
+                border: none;
+                background: none;
+                font-family: 'PixelPlay';
+                color: #526752;
+                border-bottom: dotted 1px #526752;
+                font-size: 16pt;
+                font-weight: bold;
+                display: none;
+                text-align: center;
+                margin-left: auto;
+                margin-right: auto;
+                width: 200px;
+            }
+            #nextbtn:active {
+                background-color: #526752;
+                color: #000000;
+            }
+        </style>
+</head>
+<body>
+<div id="autoplay" style="display: block;">
+<img src="Control%20Collaborative%20Virtual%20Machines!_files/play.png" alt="Click to play">
+</div>
+<div id="mainimage">
+<img style="z-index: 5" src="Control%20Collaborative%20Virtual%20Machines!_files/Interrogation.png" id="interrogationImg" draggable="false">
+<img style="z-index: 4" class="hidden" src="Control%20Collaborative%20Virtual%20Machines!_files/JailDoor.png" id="jailDoorImg" draggable="false">
+<img style="z-index: 3" class="hidden" src="Control%20Collaborative%20Virtual%20Machines!_files/JailNear.png" id="jailNearImg" draggable="false">
+<img style="z-index: 2" class="hidden" src="Control%20Collaborative%20Virtual%20Machines!_files/JailFar.png" id="jailFarImg" draggable="false">
+<img style="z-index: 1" class="hidden" src="Control%20Collaborative%20Virtual%20Machines!_files/glorytocalubviem.png" id="gloryImg" draggable="false">
+</div>
+<div class="controls">
+<div id="dialogue"></div>
+<button id="nextbtn">NEXT</button>
+</div>
+<audio src="Control%20Collaborative%20Virtual%20Machines!_files/Death.oga" id="music"></audio>
+<script src="Control%20Collaborative%20Virtual%20Machines!_files/index.js"></script>
+<script defer="defer" src="Control%20Collaborative%20Virtual%20Machines!_files/v84a3a4012de94ce1a686ba8c167c359c1696973893317.js" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon="{&quot;rayId&quot;:&quot;8742c2d41ce8bacd&quot;,&quot;r&quot;:1,&quot;version&quot;:&quot;2024.3.0&quot;,&quot;token&quot;:&quot;a1058ba99e614b2a9533f31a24a7f2b1&quot;}" crossorigin="anonymous"></script>
+
+
+</body></html>
