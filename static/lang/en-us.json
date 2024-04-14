@@ -1,7 +1,7 @@
 {
-	"languageName": "English (US)",
+	"languageName": "English (UK)",
 	"translatedLanguageName": "English (US)",
-	"flag": "🇺🇸",
+	"flag": "🇬🇧",
 	"author": "SkyHighSundae webapp",
 
 	"stringKeys": {
@@ -18,7 +18,7 @@
 		"kGeneric_Register": "Make a new account!",
 		"kGeneric_EMail": "E-Mail",
 		"kGeneric_DateOfBirth": "Your age",
-		"kGeneric_VerificationCode": "Verification Code",
+		"kGeneric_VerificationCode": "Email Code",
 		"kGeneric_Verify": "Verify",
 		"kGeneric_Update": "Update",
 		"kGeneric_Logout": "Logoff",
@@ -28,7 +28,7 @@
 
 		"kSiteButtons_Home": "Home",
 		"kSiteButtons_FAQ": "Help Center",
-		"kSiteButtons_Rules": "Rules",
+		"kSiteButtons_Rules": "Guest24897VM Rules",
 		"kSiteButtons_DarkMode": "Dark Mode",
 		"kSiteButtons_LightMode": "Light Mode",
 
@@ -71,27 +71,27 @@
 		"kVMPrompts_AdminRestoreVMPrompt": "Do you really want to reset the VM?",
 		"kVMPrompts_EnterNewUsernamePrompt": "Enter a new username, or leave the field blank to be assigned a guest username",
 
-		"kError_UnexpectedDisconnection": "Goodbye forkie",
-		"kError_UsernameTaken": "That username is already taken",
-		"kError_UsernameInvalid": "Usernames can contain only numbers, letters, spaces, dashes, underscores, and dots, and it must be between 3 and 20 characters.",
-		"kError_UsernameBlacklisted": "That username has been blacklisted.",
+		"kError_UnexpectedDisconnection": "Goodbye forkie!",
+		"kError_UsernameTaken": "Forkie, stop trying to take SkyHighSundaes or Guest24897s name!",
+		"kError_UsernameInvalid": "Too much letters",
+		"kError_UsernameBlacklisted": "Forkie, stop using blacklisted names.",
 		"kError_IncorrectPassword": "Nice try forkie, but you cant get key",
 
 		"kAccountModal_Verify": "Verify E-Mail",
-		"kAccountModal_AccountSettings": "Account Settings",
-		"kAccountModal_ResetPassword": "Reset Password",
+		"kAccountModal_AccountSettings": "Settings",
+		"kAccountModal_ResetPassword": "Reset Key",
 
-		"kAccountModal_NewPassword": "New Password",
-		"kAccountModal_ConfirmNewPassword": "Confirm New Password",
-		"kAccountModal_CurrentPassword": "Current Password",
-		"kAccountModal_ConfirmPassword": "Confirm Password",
+		"kAccountModal_NewPassword": "New Key",
+		"kAccountModal_ConfirmNewPassword": "Confirm New Key",
+		"kAccountModal_CurrentPassword": "Current Key",
+		"kAccountModal_ConfirmPassword": "Confirm Key",
 
 		"kMissingCaptcha": "Please fill out the captcha.",
 		"kPasswordsMustMatch": "Passwords must match.",
 		"kAccountModal_VerifyText": "We sent an E-Mail to {0}. To verify your account, please enter the 8-digit code from the E-Mail below.",
 		"kAccountModal_VerifyPasswordResetText": "We sent an E-Mail to {0}. To reset your password, please enter the 8-digit code from the E-Mail below.",
-		"kAccountModal_PasswordResetSuccess": "Your password has been changed successfully. You can now log in with your new password.",
+		"kAccountModal_PasswordResetSuccess": "Your key has been changed successfully. You can now log in with your new password.",
 
-		"kNotLoggedIn": "Not Logged in"
+		"kNotLoggedIn": "Not Logged in into Guest24897VM"
 	}
 }
