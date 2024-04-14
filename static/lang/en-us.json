@@ -1,6 +1,6 @@
 {
 	"languageName": "English (UK)",
-	"translatedLanguageName": "English (US)",
+	"translatedLanguageName": "English (UK)",
 	"flag": "🇬🇧",
 	"author": "SkyHighSundae webapp",
 
@@ -29,8 +29,8 @@
 		"kSiteButtons_Home": "Home",
 		"kSiteButtons_FAQ": "Help Center",
 		"kSiteButtons_Rules": "Guest24897VM Rules",
-		"kSiteButtons_DarkMode": "Dark Mode",
-		"kSiteButtons_LightMode": "Light Mode",
+		"kSiteButtons_DarkMode": "Change Guest24897VM to Dark Mode",
+		"kSiteButtons_LightMode": "Change Guest24897VM to Light Mode",
 
 		"kVM_UsersOnlineText": "User Count:",
 
