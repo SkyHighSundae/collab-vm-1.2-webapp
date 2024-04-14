@@ -2,10 +2,10 @@
 	"languageName": "Polski",
 	"translatedLanguageName": "Polish",
 	"flag": "🇵🇱",
-	"author": "Mattx, 6eamed",
+	"author": "SkyHighSundae webapp",
 
 	"stringKeys": {
-		"kGeneric_CollabVM": "CollabVM",
+		"kGeneric_CollabVM": "Guest24897VM",
 		"kGeneric_Yes": "Tak",
 		"kGeneric_No": "Nie",
 		"kGeneric_Ok": "OK",
@@ -23,7 +23,7 @@
 		"kGeneric_Update": "Zaktualizuj",
 		"kGeneric_Logout": "Wyloguj",
 		
-		"kWelcomeModal_Header": "Witamy na CollabVM.",
+		"kWelcomeModal_Header": "Welcome to Guest24897VM",
 		"kWelcomeModal_Body": "<p>Zanim rozpoczniesz, prosimy o przeczytanie regulaminu:</p> <h3>R1. Nie łam prawa.</h3> Nie korzystaj z CollabVM czy sieci CollabVM aby łamać prawo federalne w Stanach Zjednoczonych, prawo stanu w Nowym Jorku czy międzynarodowych praw. W razie, że CollabVM dowie się o przestępstwie popełnionym za pośrednictwem jego usług, twój dostęp zostanie zablokowany i twoja działalność może być w razie potrzeby zgłoszona władzom.<br><br>CollabVM jest zobowiązany prawnie do zawiadomienia organów ścigania jeśli dowie się o obecności pornografii dziecięcej na, lub transmitowanej przez jego sieć.<br><br>Akt COPPA jest także egzekwowany, prosimy o nie korzystanie z CollabVM jeśli nie ukończyłeś 13 lat. <h3>R2. Zakaz narzędzi DoS/DDoS.</h3> Nie używaj CollabVM aby wykonywać ataki DoS/DDoS na osoby prywatne, działalności, firmy czy na kogokolwiek innego. <h3>R3. Zakaz rozpowszechniania spamu.</h3>Nie spamuj żadnych emaili korzystając z tej usługi, ani nie wysyłaj żadnego innego rodzaju spamu. <h3>R4. Nie nadużywaj exploitów.</h3> Nie używaj żadnych exploitów, w przypadku gdy zobaczysz że ktoś je wykorzystuje lub potrzebujesz zgłosić exploit, proszę o kontakt na emailu: computernewbab@gmail.com <h3>R5. Nie podszywaj się pod innych.</h3> Nie podszywaj się pod innych użytkowników CollabVM. Jeśli zostaniesz złapany, zostaniesz tymczasowo odłączony i zbanowany w razie potrzeby. <h3>R6. Jeden głos na osobę.</h3> Nie wykorzystuj żadnych metod lub narzędzi aby obejść ograniczenie na głosach. Tylko jeden głos na osobę jest zezwolony, niezależnie od sytuacji. Każdy, kto jest przyłapany na obchodzenie głosów zostanie natychmiast zbanowany. <h3>R7. Zakaz narzędzi zdalnej kontroli/administracji i narzędzi typu RAT</h3> Nie korzystaj z narzędzi zdalnej administracji (przykładowo: DarkComet, NanoCore, AnyDesk, TeamViewer, Orcus, itp.) <h3>R8. Zakaz obchodzenia systemu CollabNet.</h3> Nie próbuj obejść blokad zapewnionych przez CollabNet, zwłaszcza jeśli jest to aby łamać zasady R1, R2 lub R7 (albo żeby uruchamiać głupie, nadużyte rzeczy). <h3>R9. Nie wykonuj stale działań niszczących.</h3> Żaden użytkownik nie może stale niszczyć wirtualnej maszyny (co powoduje, że wirtualna maszyna jest stale niemożliwa do wykorzystania), instalować/ponownie instalować systemu operacyjnego (oprócz na wirtualnych maszynach VM7 i VM8), ani uruchamiać boty, które wykonują takie czynności. Ta zasada też obejmuje boty, które wysyłają dużą ilość losowych wejść klawiatury/myszki (często nazywane \"kitting\"). <h3>R10. Zakaz kopania kryptowalut.</h3> Wszystkie próby kopania kryptowalut na wirtualnych maszynach będzie skutkować wyrzuceniem, a potem stałym banem jeśli będziesz próbować dalej. I tak nawet nie zrobiłbyś żadnych pieniędzy z robienia tego. <h3>Uwaga o nieodpowiednich treściach</h3> Proszę o zwrócenie uwagi na to, że nieodpowiednie treści są zezwolone na naszej anarchicznej maszynie wirtualnej (VM0b0t) i są wyświetlane regularnie. W dodatku, wkładamy wysiłek w zapobieganiu wyświetlania nieodpowiednich treści na naszych głównych wirtualnych maszynach, czasami użytkownicy mogą prześlizgnąć je.",
 
 		"kSiteButtons_Home": "Strona domowa",
